@@ -1,10 +1,12 @@
 [
     {
         "name": "To Do App",
+        "app": false,
         "url": "/to-do"
     },
     {
         "name": "Calculator",
+        "app": true,
         "url": "/calculator"
     }
 ]
