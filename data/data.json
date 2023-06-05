@@ -6,7 +6,7 @@
     },
     {
         "name": "Calculator",
-        "app": true,
+        "app": false,
         "url": "/calculator"
     }
 ]
