@@ -8,5 +8,10 @@
         "name": "Calculator",
         "app": false,
         "url": "/calculator"
+    },
+    {
+        "name": "Tic Tac Toe",
+        "app": false,
+        "url": "/t3"
     }
 ]
